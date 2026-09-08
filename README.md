@@ -251,4 +251,4 @@ This repository serves as the official landing page for Fitbit. The software is 
 **Get the most recent version of Fitbit today!**
 
 ---
-**Last updated:** 2026-09-08 14:59:23 UTC
+**Last updated:** 2026-09-08 18:32:51 UTC
